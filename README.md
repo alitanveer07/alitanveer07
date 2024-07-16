@@ -1,6 +1,6 @@
-## Hi there 👋
 
-### Hi there 👋, I'm Ali Tanveer
+
+# Ali Tanveer
 I'm Ali from Pakistan, I am a self-taught developer currently living in Kuala Lumpur, Malaysia. I am passionate about learning new languages and frameworks.
 
 
